@@ -37,7 +37,7 @@ To get started with a specific project, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```
-https://github.com/sujitha2705/sujisowmi.git
+git clone https://github.com/sujitha2705/sujisowmi.git
    ```
 
 2. Navigate to the project folder of your choice, either `Event_Page_Project` or `Tables_Forms_Project`.
